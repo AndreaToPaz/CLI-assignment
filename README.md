@@ -1,4 +1,4 @@
-# CLI-assignment
+# Visualization-CLI
 
 A CLI visualizer using Python
 
